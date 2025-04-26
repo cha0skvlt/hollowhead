@@ -19,7 +19,7 @@ Files:
   - /etc/opt/bot/README.md           #этот файл
   - /etc/systemd/system/bot.service  #процесс бота
 
-Git:
+Git:`
   git add .
   git commit -m "Initial full project upload"
   git push -u origin main
