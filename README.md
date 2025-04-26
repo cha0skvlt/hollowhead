@@ -12,6 +12,7 @@ DONE:
  - Проект сохранен в Git
 
 TODO:
+ - Безопасность API ключей, шифрование .env
  - Использовать как каркас бота для дальнейших проектов.
 
 Files:
@@ -20,10 +21,4 @@ Files:
   - /var/opt/bot/bot.py              #сам бот
   - /var/opt/bot/README.md           #этот файл
   - /etc/systemd/system/bot.service  #процесс бота
-
-Git:
-  - git add .
-  - git commit -m "Initial full project upload"
-  - git push -u origin main
-
 
