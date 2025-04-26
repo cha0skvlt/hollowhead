@@ -1,5 +1,5 @@
 Hollow Head Telegram bot by @cha0skvlt
-Version: 1.0
+v1.0
 
 INFO:
  - Бот создан в учебных целях, дает доступ к openai через telegram
