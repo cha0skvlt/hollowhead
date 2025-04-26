@@ -5,9 +5,7 @@ After=network.target
 [Service]
 WorkingDirectory=/var/opt/bot
 ExecStart=/usr/bin/python3 /var/opt/bot/bot.py
-EnvironmentFile=/var/opt/bot/.env
 Restart=always
-RestartSec=5
 User=root
 
 [Install]
