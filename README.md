@@ -18,7 +18,7 @@ Files:
   - /var/opt/bot/.env                #ключи
   - /var/opt/bot/persona.yml         #личность
   - /var/opt/bot/bot.py              #сам бот
-  - /etc/opt/bot/README.md           #этот файл
+  - /var/opt/bot/README.md           #этот файл
   - /etc/systemd/system/bot.service  #процесс бота
 
 Git:
