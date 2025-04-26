@@ -1,3 +1,6 @@
+Hollow Head Telegram bot by @cha0skvlt
+Version: 1.0
+
 INFO:
  - Бот создан в учебных целях, дает доступ к openai через telegram
 
@@ -11,6 +14,7 @@ DONE:
  - Оптимизация по токенам и общий промт для бота
  - Проект сохранен в Git
  - Проект деплоится из гита на сервер
+ - Полностью рабочий билд 1.0
 
 TODO:
  - Безопасность API ключей, шифрование .env
@@ -23,3 +27,6 @@ Files:
   - /var/opt/bot/README.md           #этот файл
   - /etc/systemd/system/bot.service  #процесс бота
 
+How to use:
+  - pip install -r requirements.txt  #ставим зависимости
+  - cp .env.example .env             #создаем и заполняем файл ключей
