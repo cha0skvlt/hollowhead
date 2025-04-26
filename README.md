@@ -30,3 +30,4 @@ Files:
 How to use:
   - pip install -r requirements.txt  #ставим зависимости
   - cp .env.example .env             #создаем и заполняем файл ключей
+  - /version , /reset                #команды
