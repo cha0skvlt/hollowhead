@@ -20,3 +20,4 @@ env/
 
 # Игнорировать файлы кэша
 .cache/
+.code-workspace
